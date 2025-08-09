@@ -1,0 +1,756 @@
+video_name,collector_name,material,full_path,duration
+6_2023-06-30_11-15-18-5960_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/6_2023-06-30_11-15-18-5960_None.MOV,59.79
+1_2023-06-30_11-07-11-9360_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-30_11-07-11-9360_None.MOV,59.79
+1_2023-06-16_11_59_12.9130_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-16_11_59_12.9130_None.MOV,59.79
+3_2023-06-16_11_42_44.9410_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/3_2023-06-16_11_42_44.9410_None.MOV,55.33
+1_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-30_10-58-42-3550_None.MOV,59.76
+0_2023-06-16_11_47_32.3320_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_47_32.3320_None.MOV,59.82
+0_2023-06-16_11_56_07.4180_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_56_07.4180_None.MOV,59.79
+2_2023-06-16_11_47_32.3320_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/2_2023-06-16_11_47_32.3320_None.MOV,59.76
+3_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/3_2023-06-30_10-58-42-3550_None.MOV,59.82
+1_2023-06-16_11_42_44.9410_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-16_11_42_44.9410_None.MOV,59.79
+3_2023-06-16_11_59_12.9130_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/3_2023-06-16_11_59_12.9130_None.MOV,59.82
+3_2023-06-30_11-07-11-9360_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/3_2023-06-30_11-07-11-9360_None.MOV,59.79
+4_2023-06-30_11-15-18-5960_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/4_2023-06-30_11-15-18-5960_None.MOV,59.76
+7_2023-06-30_11-15-18-5960_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/7_2023-06-30_11-15-18-5960_None.MOV,59.19
+2_2023-06-16_11_42_44.9410_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/2_2023-06-16_11_42_44.9410_None.MOV,59.79
+0_2023-06-16_11_59_12.9130_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_59_12.9130_None.MOV,59.79
+0_2023-06-16_11_53_45.0260_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_53_45.0260_None.MOV,0.93
+1_2023-06-16_11_47_32.3320_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-16_11_47_32.3320_None.MOV,59.79
+1_2023-06-16_11_56_07.4180_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-16_11_56_07.4180_None.MOV,57.32
+3_2023-06-16_11_47_32.3320_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/3_2023-06-16_11_47_32.3320_None.MOV,33.76
+2_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/2_2023-06-30_10-58-42-3550_None.MOV,59.76
+2_2023-06-30_11-07-11-9360_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/2_2023-06-30_11-07-11-9360_None.MOV,59.79
+2_2023-06-16_11_59_12.9130_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/2_2023-06-16_11_59_12.9130_None.MOV,59.76
+0_2023-06-16_11_42_44.9410_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_42_44.9410_None.MOV,59.79
+5_2023-06-30_11-15-18-5960_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/5_2023-06-30_11-15-18-5960_None.MOV,59.8
+4_2023-06-16_11_59_12.9130_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/4_2023-06-16_11_59_12.9130_None.MOV,26.7
+4_2023-06-30_11-07-11-9360_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/4_2023-06-30_11-07-11-9360_None.MOV,59.76
+0_2023-06-16_11_53_58.5530_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_53_58.5530_None.MOV,59.82
+3_2023-06-30_11-15-18-5960_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/3_2023-06-30_11-15-18-5960_None.MOV,59.82
+0_2023-06-16_11_41_51.4280_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_41_51.4280_None.MOV,1.2
+2_2023-06-30_11-23-29-2950_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/2_2023-06-30_11-23-29-2950_None.MOV,26.42
+1_2023-06-16_11_51_43.4120_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-16_11_51_43.4120_None.MOV,38.2
+4_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/4_2023-06-30_10-58-42-3550_None.MOV,59.79
+6_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/6_2023-06-30_10-58-42-3550_None.MOV,59.79
+1_2023-06-30_11-15-18-5960_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-30_11-15-18-5960_None.MOV,59.79
+6_2023-06-30_11-07-11-9360_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/6_2023-06-30_11-07-11-9360_None.MOV,59.79
+5_2023-06-30_11-07-11-9360_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/5_2023-06-30_11-07-11-9360_None.MOV,59.82
+1_2023-06-16_11_53_58.5530_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-16_11_53_58.5530_None.MOV,42.76
+8_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/8_2023-06-30_10-58-42-3550_None.MOV,0.73
+2_2023-06-30_11-15-18-5960_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/2_2023-06-30_11-15-18-5960_None.MOV,59.79
+0_2023-06-16_11_51_43.4120_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/0_2023-06-16_11_51_43.4120_None.MOV,59.76
+5_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/5_2023-06-30_10-58-42-3550_None.MOV,59.79
+7_2023-06-30_10-58-42-3550_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/7_2023-06-30_10-58-42-3550_None.MOV,59.82
+1_2023-06-30_11-23-29-2950_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/1_2023-06-30_11-23-29-2950_None.MOV,59.81
+7_2023-06-30_11-07-11-9360_None.MOV,wayne,none,10_3_2023_all_data/testbed/old_testbed/user_data/wayne/7_2023-06-30_11-07-11-9360_None.MOV,53.93
+3_2023-06-16_12_09_28.7400_None.MOV,jun_ha,none,10_3_2023_all_data/testbed/old_testbed/user_data/jun_ha/3_2023-06-16_12_09_28.7400_None.MOV,59.81
+1_2023-06-16_12_09_28.7400_None.MOV,jun_ha,none,10_3_2023_all_data/testbed/old_testbed/user_data/jun_ha/1_2023-06-16_12_09_28.7400_None.MOV,59.81
+2_2023-06-16_12_09_28.7400_None.MOV,jun_ha,none,10_3_2023_all_data/testbed/old_testbed/user_data/jun_ha/2_2023-06-16_12_09_28.7400_None.MOV,59.81
+0_2023-06-16_12_09_28.7400_None.MOV,jun_ha,none,10_3_2023_all_data/testbed/old_testbed/user_data/jun_ha/0_2023-06-16_12_09_28.7400_None.MOV,59.81
+4_2023-06-16_12_09_28.7400_None.MOV,jun_ha,none,10_3_2023_all_data/testbed/old_testbed/user_data/jun_ha/4_2023-06-16_12_09_28.7400_None.MOV,59.41
+6_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/6_2023-06-16_11_07_03.9450_None.MOV,59.79
+4_2023-06-16_11_57_14.9620_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/4_2023-06-16_11_57_14.9620_None.MOV,59.79
+10_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/10_2023-06-16_11_07_03.9450_None.MOV,39.04
+0_2023-06-16_11_53_49.2760_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_53_49.2760_None.MOV,59.79
+9_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/9_2023-06-16_9_56_45.8180_None.MOV,59.82
+0_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_10_19_23.1210_None.MOV,59.79
+1_2023-06-16_11_51_47.0120_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_11_51_47.0120_None.MOV,45.31
+0_2023-06-16_10_19_11.1100_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_10_19_11.1100_None.MOV,8.34
+9_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/9_2023-06-16_11_07_03.9450_None.MOV,59.79
+0_2023-06-16_11_38_01.8160_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_38_01.8160_None.MOV,6.97
+2_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_10_19_23.1210_None.MOV,59.79
+5_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/5_2023-06-16_9_56_45.8180_None.MOV,59.79
+0_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_9_47_50.3750_None.MOV,59.72
+0_2023-06-16_11_51_36.6080_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_51_36.6080_None.MOV,0.4
+6_2023-06-16_11_57_14.9620_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/6_2023-06-16_11_57_14.9620_None.MOV,29.73
+1_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_9_56_45.8180_None.MOV,59.82
+12_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/12_2023-06-16_9_56_45.8180_None.MOV,22.42
+4_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/4_2023-06-16_9_47_50.3750_None.MOV,59.79
+4_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/4_2023-06-16_11_07_03.9450_None.MOV,59.76
+7_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/7_2023-06-16_11_07_03.9450_None.MOV,59.82
+1_2023-06-16_11_53_49.2760_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_11_53_49.2760_None.MOV,56.32
+6_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/6_2023-06-16_9_56_45.8180_None.MOV,59.79
+3_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_9_47_50.3750_None.MOV,59.82
+5_2023-06-16_11_57_14.9620_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/5_2023-06-16_11_57_14.9620_None.MOV,59.79
+11_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/11_2023-06-16_9_56_45.8180_None.MOV,59.82
+2_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_9_56_45.8180_None.MOV,59.79
+7_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/7_2023-06-16_9_47_50.3750_None.MOV,49.65
+0_2023-06-16_9_46_26.2880_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_9_46_26.2880_None.MOV,7.04
+1_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_10_19_23.1210_None.MOV,59.82
+0_2023-06-16_11_51_47.0120_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_51_47.0120_None.MOV,59.76
+0_2023-06-16_9_46_11.5320_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_9_46_11.5320_None.MOV,8.84
+3_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_10_19_23.1210_None.MOV,59.79
+8_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/8_2023-06-16_11_07_03.9450_None.MOV,59.79
+5_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/5_2023-06-16_11_07_03.9450_None.MOV,59.86
+1_2023-06-16_11_42_49.9270_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_11_42_49.9270_None.MOV,59.82
+1_2023-06-16_11_57_14.9620_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_11_57_14.9620_None.MOV,59.79
+1_2023-06-16_11_47_39.1300_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_11_47_39.1300_None.MOV,59.79
+5_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/5_2023-06-16_9_47_50.3750_None.MOV,59.82
+0_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_9_56_45.8180_None.MOV,59.76
+3_2023-06-16_11_18_23.8520_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_11_18_23.8520_None.MOV,29.06
+3_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_11_07_03.9450_None.MOV,59.79
+5_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/5_2023-06-16_10_19_23.1210_None.MOV,59.79
+1_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_9_47_50.3750_None.MOV,59.82
+0_2023-06-16_10_18_34.3140_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_10_18_34.3140_None.MOV,22.19
+4_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/4_2023-06-16_9_56_45.8180_None.MOV,59.79
+7_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/7_2023-06-16_10_19_23.1210_None.MOV,46.38
+1_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_11_07_03.9450_None.MOV,59.82
+3_2023-06-16_11_57_14.9620_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_11_57_14.9620_None.MOV,59.82
+1_2023-06-16_10_10_47.7860_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_10_10_47.7860_None.MOV,59.79
+3_2023-06-16_11_47_39.1300_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_11_47_39.1300_None.MOV,28.16
+1_2023-06-16_11_18_23.8520_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/1_2023-06-16_11_18_23.8520_None.MOV,59.79
+8_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/8_2023-06-16_9_56_45.8180_None.MOV,59.86
+3_2023-06-16_11_42_49.9270_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_11_42_49.9270_None.MOV,53.72
+2_2023-06-16_11_18_23.8520_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_11_18_23.8520_None.MOV,59.79
+0_2023-06-16_11_57_14.9620_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_57_14.9620_None.MOV,59.82
+2_2023-06-16_10_10_47.7860_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_10_10_47.7860_None.MOV,50.35
+0_2023-06-16_11_47_39.1300_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_47_39.1300_None.MOV,59.79
+0_2023-06-16_11_42_49.9270_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_42_49.9270_None.MOV,59.76
+2_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_11_07_03.9450_None.MOV,59.79
+4_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/4_2023-06-16_10_19_23.1210_None.MOV,59.79
+6_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/6_2023-06-16_9_47_50.3750_None.MOV,59.79
+3_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/3_2023-06-16_9_56_45.8180_None.MOV,59.82
+10_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/10_2023-06-16_9_56_45.8180_None.MOV,59.79
+6_2023-06-16_10_19_23.1210_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/6_2023-06-16_10_19_23.1210_None.MOV,59.79
+0_2023-06-16_11_07_03.9450_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_07_03.9450_None.MOV,59.76
+2_2023-06-16_11_42_49.9270_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_11_42_49.9270_None.MOV,59.79
+0_2023-06-16_11_18_23.8520_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_11_18_23.8520_None.MOV,59.79
+2_2023-06-16_9_47_50.3750_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_9_47_50.3750_None.MOV,59.82
+7_2023-06-16_9_56_45.8180_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/7_2023-06-16_9_56_45.8180_None.MOV,59.79
+2_2023-06-16_11_57_14.9620_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_11_57_14.9620_None.MOV,59.79
+2_2023-06-16_11_47_39.1300_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/2_2023-06-16_11_47_39.1300_None.MOV,59.79
+0_2023-06-16_10_10_47.7860_None.MOV,prof_tang,none,10_3_2023_all_data/testbed/old_testbed/user_data/prof_tang/0_2023-06-16_10_10_47.7860_None.MOV,59.79
+0_2023-08-21 13_06_41.7120_none.MOV,jiawei_testbed,none,10_3_2023_all_data/testbed/user_data/jiawei_testbed/0_2023-08-21 13_06_41.7120_none.MOV,5.43
+0_2023-08-21 13_15_02.4470_none.MOV,jiawei_testbed,none,10_3_2023_all_data/testbed/user_data/jiawei_testbed/0_2023-08-21 13_15_02.4470_none.MOV,14.46
+0_2023-08-21 13_18_56.1700_none.MOV,jiawei_testbed,none,10_3_2023_all_data/testbed/user_data/jiawei_testbed/0_2023-08-21 13_18_56.1700_none.MOV,7.46
+0_2023-08-21 13_05_59.5830_none.MOV,jiawei_testbed,none,10_3_2023_all_data/testbed/user_data/jiawei_testbed/0_2023-08-21 13_05_59.5830_none.MOV,9.43
+0_2023-08-21 13_19_19.7890_none.MOV,jiawei_testbed,none,10_3_2023_all_data/testbed/user_data/jiawei_testbed/0_2023-08-21 13_19_19.7890_none.MOV,9.13
+0_2023-08-21 13_05_23.9010_none.MOV,jiawei_testbed,none,10_3_2023_all_data/testbed/user_data/jiawei_testbed/0_2023-08-21 13_05_23.9010_none.MOV,9.0
+0_2023-08-21 13_14_29.9650_none.MOV,jiawei_testbed,none,10_3_2023_all_data/testbed/user_data/jiawei_testbed/0_2023-08-21 13_14_29.9650_none.MOV,6.43
+0_2023-08-18 15_44_08.9770_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_44_08.9770_None.MOV,59.95
+0_2023-08-21 13_15_48.1580_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_15_48.1580_None.MOV,59.95
+0_2023-08-18 15_20_23.4680_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_20_23.4680_None.MOV,59.96
+2_2023-08-18 15_16_57.8970_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 15_16_57.8970_None.MOV,59.56
+0_2023-08-21 13_25_05.3510_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_25_05.3510_None.MOV,59.99
+1_2023-08-18 15_54_43.4120_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_54_43.4120_None.MOV,37.63
+0_2023-08-21 13_20_54.2680_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_20_54.2680_None.MOV,60.02
+1_2023-08-18 16_10_28.8520_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 16_10_28.8520_None.MOV,59.79
+2_2023-08-21 13_47_36.2700_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-21 13_47_36.2700_None.MOV,19.63
+0_2023-08-21 13_52_19.2290_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_52_19.2290_None.MOV,29.1
+1_2023-08-18 16_05_14.3880_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 16_05_14.3880_None.MOV,30.2
+0_2023-08-18 15_34_35.2900_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_34_35.2900_None.MOV,59.96
+2_2023-08-18 15_34_35.2900_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 15_34_35.2900_None.MOV,43.06
+0_2023-08-18 15_38_21.7010_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_38_21.7010_None.MOV,59.96
+0_2023-08-21 13_47_36.2700_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_47_36.2700_None.MOV,59.99
+0_2023-08-18 15_41_44.5610_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_41_44.5610_None.MOV,59.99
+2_2023-08-21 13_20_54.2680_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-21 13_20_54.2680_None.MOV,11.7
+0_2023-08-21 13_39_14.6690_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_39_14.6690_None.MOV,31.8
+0_2023-08-18 15_16_57.8970_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_16_57.8970_None.MOV,59.96
+2_2023-08-21 13_25_05.3510_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-21 13_25_05.3510_None.MOV,49.69
+2_2023-08-18 15_44_08.9770_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 15_44_08.9770_None.MOV,54.66
+2_2023-08-21 13_15_48.1580_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-21 13_15_48.1580_None.MOV,17.8
+1_2023-08-21 13_15_48.1580_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-21 13_15_48.1580_None.MOV,59.76
+1_2023-08-18 15_44_08.9770_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_44_08.9770_None.MOV,59.77
+0_2023-08-18 15_54_43.4120_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_54_43.4120_None.MOV,59.96
+1_2023-08-21 13_25_05.3510_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-21 13_25_05.3510_None.MOV,59.76
+1_2023-08-18 15_20_23.4680_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_20_23.4680_None.MOV,20.13
+1_2023-08-21 13_20_54.2680_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-21 13_20_54.2680_None.MOV,59.79
+0_2023-08-18 16_10_28.8520_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 16_10_28.8520_None.MOV,59.96
+1_2023-08-18 15_34_35.2900_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_34_35.2900_None.MOV,59.79
+0_2023-08-18 16_05_14.3880_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 16_05_14.3880_None.MOV,59.99
+1_2023-08-18 15_38_21.7010_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_38_21.7010_None.MOV,18.03
+0_2023-08-18 15_41_27.2710_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_41_27.2710_None.MOV,2.93
+2_2023-08-18 16_10_28.8520_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 16_10_28.8520_None.MOV,37.33
+1_2023-08-21 13_47_36.2700_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-21 13_47_36.2700_None.MOV,59.79
+1_2023-08-18 15_41_44.5610_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_41_44.5610_None.MOV,21.86
+1_2023-08-18 15_16_57.8970_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_16_57.8970_None.MOV,59.79
+0_2023-08-21 13_40_10.4330_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_40_10.4330_None.MOV,28.23
+0_2023-08-18 16_09_41.1870_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 16_09_41.1870_None.MOV,19.03
+2_2023-08-21 13_10_02.0540_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-21 13_10_02.0540_None.MOV,7.7
+0_2023-08-18 15_47_39.1200_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_47_39.1200_None.MOV,8.73
+3_2023-08-18 16_00_47.2240_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/3_2023-08-18 16_00_47.2240_None.MOV,57.96
+0_2023-08-18 15_26_56.1170_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_26_56.1170_None.MOV,59.96
+1_2023-08-18 15_56_37.8420_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_56_37.8420_None.MOV,59.85
+1_2023-08-18 15_22_37.4180_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_22_37.4180_None.MOV,59.79
+2_2023-08-18 15_26_56.1170_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 15_26_56.1170_None.MOV,59.79
+0_2023-08-21 13_10_02.0540_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-21 13_10_02.0540_None.MOV,59.99
+1_2023-08-18 16_00_47.2240_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 16_00_47.2240_None.MOV,59.79
+2_2023-08-18 16_00_47.2240_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 16_00_47.2240_None.MOV,59.79
+0_2023-08-18 16_13_39.2200_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 16_13_39.2200_None.MOV,33.76
+1_2023-08-18 15_26_56.1170_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-18 15_26_56.1170_None.MOV,59.79
+0_2023-08-18 15_22_37.4180_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_22_37.4180_None.MOV,59.96
+0_2023-08-18 15_56_37.8420_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_56_37.8420_None.MOV,59.92
+2_2023-08-18 15_56_37.8420_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 15_56_37.8420_None.MOV,32.5
+2_2023-08-18 15_22_37.4180_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/2_2023-08-18 15_22_37.4180_None.MOV,18.46
+3_2023-08-18 15_26_56.1170_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/3_2023-08-18 15_26_56.1170_None.MOV,3.57
+0_2023-08-18 16_00_47.2240_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 16_00_47.2240_None.MOV,59.99
+1_2023-08-21 13_10_02.0540_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/1_2023-08-21 13_10_02.0540_None.MOV,59.73
+0_2023-08-18 15_33_24.8440_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_33_24.8440_None.MOV,47.59
+0_2023-08-18 15_32_44.1150_None.MOV,wayne_testbed,none,10_3_2023_all_data/testbed/user_data/wayne_testbed/0_2023-08-18 15_32_44.1150_None.MOV,19.86
+0_2023-08-21 13_04_01.2850_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_04_01.2850_none.MOV,8.47
+0_2023-08-21 13_16_04.2610_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_16_04.2610_none.MOV,4.37
+0_2023-08-21 13_07_56.1990_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_07_56.1990_none.MOV,6.47
+0_2023-08-21 13_17_34.3680_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_17_34.3680_none.MOV,4.4
+0_2023-08-21 13_47_32.7700_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_47_32.7700_none.MOV,38.53
+0_2023-08-21 13_51_24.8340_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_51_24.8340_none.MOV,32.1
+0_2023-08-21 13_17_04.2220_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_17_04.2220_none.MOV,4.2
+0_2023-08-21 13_29_03.7170_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_29_03.7170_none.MOV,7.3
+0_2023-08-21 13_38_01.2640_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_38_01.2640_none.MOV,6.2
+0_2023-08-21 13_31_07.3540_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_31_07.3540_none.MOV,15.67
+0_2023-08-21 13_38_18.6020_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_38_18.6020_none.MOV,5.77
+0_2023-08-21 13_13_42.8930_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_13_42.8930_none.MOV,5.73
+0_2023-08-21 13_25_47.4870_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_25_47.4870_none.MOV,30.27
+0_2023-08-21 13_30_45.6190_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_30_45.6190_none.MOV,13.15
+0_2023-08-21 13_18_37.2880_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_18_37.2880_none.MOV,17.87
+0_2023-08-21 13_20_43.6050_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_20_43.6050_none.MOV,13.93
+0_2023-08-21 13_23_41.8000_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_23_41.8000_none.MOV,4.97
+0_2023-08-21 13_03_22.1200_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_03_22.1200_none.MOV,18.17
+0_2023-08-21 13_35_21.6510_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_35_21.6510_none.MOV,5.9
+0_2023-08-21 13_14_09.3890_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_14_09.3890_none.MOV,4.3
+0_2023-08-21 13_33_40.5950_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_33_40.5950_none.MOV,8.17
+0_2023-08-21 13_39_58.4000_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_39_58.4000_none.MOV,4.0
+0_2023-08-21 13_04_21.5990_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_04_21.5990_none.MOV,7.73
+0_2023-08-21 13_22_37.4780_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_22_37.4780_none.MOV,4.83
+0_2023-08-21 13_35_38.5480_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_35_38.5480_none.MOV,5.0
+0_2023-08-21 13_46_40.9020_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_46_40.9020_none.MOV,35.37
+0_2023-08-21 13_07_38.6420_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_07_38.6420_none.MOV,6.93
+0_2023-08-21 13_19_11.7550_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_19_11.7550_none.MOV,4.77
+0_2023-08-21 13_39_16.9930_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_39_16.9930_none.MOV,4.77
+0_2023-08-21 13_39_00.3790_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_39_00.3790_none.MOV,4.9
+0_2023-08-21 13_29_23.8260_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_29_23.8260_none.MOV,8.37
+0_2023-08-21 13_19_28.2470_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_19_28.2470_none.MOV,5.57
+0_2023-08-21 13_22_56.2970_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_22_56.2970_none.MOV,6.63
+0_2023-08-21 13_15_46.1630_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_15_46.1630_none.MOV,5.77
+0_2023-08-21 13_17_55.7600_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_17_55.7600_none.MOV,20.13
+0_2023-08-21 13_02_30.6080_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_02_30.6080_none.MOV,13.53
+0_2023-08-21 13_21_07.8080_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_21_07.8080_none.MOV,18.2
+0_2023-08-21 13_25_19.5950_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_25_19.5950_none.MOV,5.67
+0_2023-08-21 13_34_03.8850_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_34_03.8850_none.MOV,8.63
+0_2023-08-21 13_06_23.8930_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_06_23.8930_none.MOV,6.67
+0_2023-08-21 13_24_58.7010_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_24_58.7010_none.MOV,5.43
+0_2023-08-21 13_05_44.8460_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_05_44.8460_none.MOV,7.0
+0_2023-08-21 13_27_35.9800_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_27_35.9800_none.MOV,4.8
+0_2023-08-21 13_23_21.0440_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_23_21.0440_none.MOV,4.83
+0_2023-08-21 13_06_07.6300_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_06_07.6300_none.MOV,6.77
+0_2023-08-21 13_49_23.1320_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_49_23.1320_none.MOV,41.97
+0_2023-08-21 13_06_43.9720_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_06_43.9720_none.MOV,6.07
+0_2023-08-21 13_27_52.7030_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_27_52.7030_none.MOV,4.13
+0_2023-08-21 13_39_44.9590_none.MOV,victor_testbed,none,10_3_2023_all_data/testbed/user_data/victor_testbed/0_2023-08-21 13_39_44.9590_none.MOV,4.8
+6_2023-06-30_11-15-18-5960_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/6_2023-06-30_11-15-18-5960_None.MOV,59.79
+1_2023-06-30_11-07-11-9360_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/1_2023-06-30_11-07-11-9360_None.MOV,59.79
+1_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/1_2023-06-30_10-58-42-3550_None.MOV,59.76
+3_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/3_2023-06-30_10-58-42-3550_None.MOV,59.82
+3_2023-06-30_11-07-11-9360_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/3_2023-06-30_11-07-11-9360_None.MOV,59.79
+4_2023-06-30_11-15-18-5960_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/4_2023-06-30_11-15-18-5960_None.MOV,59.76
+7_2023-06-30_11-15-18-5960_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/7_2023-06-30_11-15-18-5960_None.MOV,59.19
+2_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/2_2023-06-30_10-58-42-3550_None.MOV,59.76
+2_2023-06-30_11-07-11-9360_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/2_2023-06-30_11-07-11-9360_None.MOV,59.79
+5_2023-06-30_11-15-18-5960_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/5_2023-06-30_11-15-18-5960_None.MOV,59.8
+4_2023-06-30_11-07-11-9360_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/4_2023-06-30_11-07-11-9360_None.MOV,59.76
+3_2023-06-30_11-15-18-5960_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/3_2023-06-30_11-15-18-5960_None.MOV,59.82
+2_2023-06-30_11-23-29-2950_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/2_2023-06-30_11-23-29-2950_None.MOV,26.42
+4_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/4_2023-06-30_10-58-42-3550_None.MOV,59.79
+6_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/6_2023-06-30_10-58-42-3550_None.MOV,59.79
+1_2023-06-30_11-15-18-5960_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/1_2023-06-30_11-15-18-5960_None.MOV,59.79
+6_2023-06-30_11-07-11-9360_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/6_2023-06-30_11-07-11-9360_None.MOV,59.79
+5_2023-06-30_11-07-11-9360_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/5_2023-06-30_11-07-11-9360_None.MOV,59.82
+8_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/8_2023-06-30_10-58-42-3550_None.MOV,0.73
+2_2023-06-30_11-15-18-5960_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/2_2023-06-30_11-15-18-5960_None.MOV,59.79
+5_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/5_2023-06-30_10-58-42-3550_None.MOV,59.79
+7_2023-06-30_10-58-42-3550_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/7_2023-06-30_10-58-42-3550_None.MOV,59.82
+1_2023-06-30_11-23-29-2950_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/1_2023-06-30_11-23-29-2950_None.MOV,59.81
+7_2023-06-30_11-07-11-9360_None.MOV,nihal,none,10_3_2023_all_data/testbed/user_data/nihal/7_2023-06-30_11-07-11-9360_None.MOV,53.93
+0_2023-08-18 16_00_44.9720_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 16_00_44.9720_None.MOV,59.82
+1_2023-08-18 16_04_30.0020_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 16_04_30.0020_None.MOV,17.23
+2_2023-08-18 15_16_41.7390_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/2_2023-08-18 15_16_41.7390_None.MOV,38.97
+0_2023-08-18 15_34_29.3460_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_34_29.3460_None.MOV,59.77
+0_2023-08-18 16_10_26.1590_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 16_10_26.1590_None.MOV,59.77
+0_2023-08-18 15_47_59.0340_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_47_59.0340_None.MOV,59.77
+1_2023-08-18 15_42_10.6330_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_42_10.6330_None.MOV,23.5
+1_2023-08-18 15_28_29.7890_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_28_29.7890_None.MOV,59.77
+2_2023-08-18 15_34_29.3460_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/2_2023-08-18 15_34_29.3460_None.MOV,59.79
+0_2023-08-18 15_50_07.8380_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_50_07.8380_None.MOV,16.1
+0_2023-08-18 15_16_41.7390_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_16_41.7390_None.MOV,59.81
+1_2023-08-18 16_00_44.9720_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 16_00_44.9720_None.MOV,1.67
+1_2023-08-18 16_10_26.1590_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 16_10_26.1590_None.MOV,46.84
+1_2023-08-18 15_34_29.3460_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_34_29.3460_None.MOV,59.77
+2_2023-08-18 15_28_29.7890_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/2_2023-08-18 15_28_29.7890_None.MOV,54.61
+0_2023-08-18 16_04_30.0020_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 16_04_30.0020_None.MOV,59.79
+0_2023-08-18 15_42_10.6330_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_42_10.6330_None.MOV,59.74
+1_2023-08-18 15_47_59.0340_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_47_59.0340_None.MOV,13.87
+1_2023-08-18 15_16_41.7390_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_16_41.7390_None.MOV,59.81
+0_2023-08-18 15_28_29.7890_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_28_29.7890_None.MOV,59.81
+3_2023-08-18 15_34_29.3460_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/3_2023-08-18 15_34_29.3460_None.MOV,33.48
+1_2023-08-18 15_54_30.9380_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_54_30.9380_None.MOV,29.5
+0_2023-08-18 15_20_31.1510_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_20_31.1510_None.MOV,59.81
+1_2023-08-18 15_32_18.4780_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_32_18.4780_None.MOV,8.73
+3_2023-08-18 15_44_00.8050_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/3_2023-08-18 15_44_00.8050_None.MOV,7.37
+1_2023-08-18 15_22_57.5850_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_22_57.5850_None.MOV,59.81
+1_2023-08-18 15_50_35.6090_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_50_35.6090_None.MOV,1.97
+1_2023-08-18 15_56_42.7230_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_56_42.7230_None.MOV,59.83
+1_2023-08-18 15_44_00.8050_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_44_00.8050_None.MOV,59.8
+1_2023-08-18 16_02_25.6350_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 16_02_25.6350_None.MOV,23.67
+1_2023-08-18 15_20_31.1510_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/1_2023-08-18 15_20_31.1510_None.MOV,45.8
+0_2023-08-18 15_54_30.9380_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_54_30.9380_None.MOV,59.77
+0_2023-08-18 15_32_18.4780_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_32_18.4780_None.MOV,59.81
+2_2023-08-18 15_56_42.7230_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/2_2023-08-18 15_56_42.7230_None.MOV,6.6
+2_2023-08-18 15_44_00.8050_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/2_2023-08-18 15_44_00.8050_None.MOV,59.83
+0_2023-08-18 16_13_28.5700_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 16_13_28.5700_None.MOV,53.51
+0_2023-08-18 15_22_57.5850_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_22_57.5850_None.MOV,59.81
+2_2023-08-18 15_22_57.5850_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/2_2023-08-18 15_22_57.5850_None.MOV,49.44
+0_2023-08-18 15_44_00.8050_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_44_00.8050_None.MOV,59.77
+0_2023-08-18 15_50_35.6090_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_50_35.6090_None.MOV,59.77
+0_2023-08-18 15_56_42.7230_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 15_56_42.7230_None.MOV,59.76
+0_2023-08-18 16_02_25.6350_None.MOV,junha_testbed,none,10_3_2023_all_data/testbed/user_data/junha_testbed/0_2023-08-18 16_02_25.6350_None.MOV,59.77
+0_2023-08-18 14_52_43.6000_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 14_52_43.6000_None.MOV,59.74
+1_2023-08-18 16_31_45.9180_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/1_2023-08-18 16_31_45.9180_None.MOV,53.74
+1_2023-08-18 14_39_05.0030_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/1_2023-08-18 14_39_05.0030_None.MOV,35.3
+0_2023-08-18 14_41_33.5670_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 14_41_33.5670_None.MOV,59.74
+1_2023-08-18 14_44_23.4210_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/1_2023-08-18 14_44_23.4210_None.MOV,37.27
+1_2023-08-18 14_52_43.6000_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/1_2023-08-18 14_52_43.6000_None.MOV,33.2
+1_2023-08-18 14_41_33.5670_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/1_2023-08-18 14_41_33.5670_None.MOV,45.27
+0_2023-08-18 14_52_28.4630_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 14_52_28.4630_None.MOV,1.7
+0_2023-08-18 14_39_05.0030_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 14_39_05.0030_None.MOV,59.74
+0_2023-08-18 16_31_45.9180_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 16_31_45.9180_None.MOV,59.77
+0_2023-08-18 14_44_23.4210_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 14_44_23.4210_None.MOV,59.77
+2_2023-08-18 14_48_02.2830_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/2_2023-08-18 14_48_02.2830_None.MOV,59.81
+0_2023-08-18 14_48_02.2830_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 14_48_02.2830_None.MOV,59.77
+1_2023-08-18 16_33_59.5080_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/1_2023-08-18 16_33_59.5080_None.MOV,7.77
+3_2023-08-18 14_48_02.2830_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/3_2023-08-18 14_48_02.2830_None.MOV,19.1
+1_2023-08-18 14_48_02.2830_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/1_2023-08-18 14_48_02.2830_None.MOV,59.81
+0_2023-08-18 16_33_59.5080_None.MOV,junha_8_18,none,10_3_2023_all_data/testbed/data_on_hold/junha_8_18/0_2023-08-18 16_33_59.5080_None.MOV,59.81
+2_2023-08-18 14_48_00.3860_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/2_2023-08-18 14_48_00.3860_None.MOV,36.36
+0_2023-08-18 14_48_00.3860_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/0_2023-08-18 14_48_00.3860_None.MOV,59.99
+1_2023-08-18 14_44_35.3920_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/1_2023-08-18 14_44_35.3920_None.MOV,43.89
+0_2023-08-18 14_52_07.1890_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/0_2023-08-18 14_52_07.1890_None.MOV,59.94
+1_2023-08-18 14_48_00.3860_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/1_2023-08-18 14_48_00.3860_None.MOV,59.79
+0_2023-08-18 14_44_35.3920_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/0_2023-08-18 14_44_35.3920_None.MOV,59.99
+1_2023-08-18 14_52_07.1890_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/1_2023-08-18 14_52_07.1890_None.MOV,33.93
+1_2023-08-18 14_41_50.3000_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/1_2023-08-18 14_41_50.3000_None.MOV,59.79
+1_2023-08-18 14_38_51.8240_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/1_2023-08-18 14_38_51.8240_None.MOV,28.9
+0_2023-08-18 14_41_50.3000_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/0_2023-08-18 14_41_50.3000_None.MOV,59.99
+0_2023-08-18 14_38_51.8240_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/0_2023-08-18 14_38_51.8240_None.MOV,59.99
+2_2023-08-18 14_41_50.3000_None.MOV,wayne_8_18,none,10_3_2023_all_data/testbed/data_on_hold/wayne_8_18/2_2023-08-18 14_41_50.3000_None.MOV,2.13
+0_2023-08-07_15_43_22.3390_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_43_22.3390_None.MOV,12.8
+0_2023-08-08_16_16_24.3250_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_16_24.3250_None.MOV,13.9
+0_2023-08-07_16_04_00.4220_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_04_00.4220_None.MOV,50.54
+0_2023-08-03_15_35_12.7200_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_35_12.7200_None.MOV,9.77
+0_2023-08-02_13_46_24.7630_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_46_24.7630_None.MOV,6.33
+0_2023-08-03_16_05_52.5960_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_16_05_52.5960_None.MOV,10.04
+0_2023-08-02_14_08_58.1370_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_08_58.1370_None.MOV,10.47
+0_2023-08-09_16_51_28.9030_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_51_28.9030_None.MOV,31.2
+0_2023-08-02_14_20_02.6050_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_20_02.6050_None.MOV,10.54
+0_2023-08-03_15_34_49.5650_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_34_49.5650_None.MOV,13.37
+1_2023-08-16_15_56_17.2540_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_15_56_17.2540_None.MOV,59.81
+0_2023-08-08_16_31_07.7580_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_31_07.7580_None.MOV,59.81
+0_2023-08-08_16_03_14.7990_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_03_14.7990_None.MOV,18.0
+0_2023-08-02_14_20_20.2360_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_20_20.2360_None.MOV,10.47
+0_2023-08-08_16_07_29.4260_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_07_29.4260_None.MOV,10.7
+0_2023-08-03_15_37_35.6500_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_37_35.6500_None.MOV,16.4
+0_2023-08-02_14_23_15.5620_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_23_15.5620_None.MOV,10.94
+0_2023-08-02_13_48_18.9950_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_48_18.9950_None.MOV,10.94
+0_2023-08-02_14_27_41.0440_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_27_41.0440_None.MOV,10.84
+0_2023-08-16_16_48_29.0130_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_48_29.0130_None.MOV,32.78
+0_2023-08-07_15_34_14.6430_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_34_14.6430_None.MOV,40.74
+0_2023-08-02_14_09_55.0270_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_09_55.0270_None.MOV,10.6
+3_2023-08-16_17_14_44.7950_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/3_2023-08-16_17_14_44.7950_None.MOV,6.5
+0_2023-08-07_15_44_02.4060_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_44_02.4060_None.MOV,11.44
+0_2023-08-07_13_23_37.1630_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_23_37.1630_None.MOV,12.0
+0_2023-08-07_16_19_55.7730_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_19_55.7730_None.MOV,21.2
+1_2023-08-16_16_52_50.9190_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_16_52_50.9190_None.MOV,15.07
+0_2023-08-07_13_22_30.7770_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_22_30.7770_None.MOV,13.37
+0_2023-08-02_14_11_05.9840_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_11_05.9840_None.MOV,11.7
+0_2023-08-03_15_32_56.0800_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_32_56.0800_None.MOV,11.77
+0_2023-08-07_16_09_43.6530_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_09_43.6530_None.MOV,42.64
+1_2023-08-16_17_14_44.7950_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_17_14_44.7950_None.MOV,59.77
+0_2023-08-07_13_19_46.0760_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_19_46.0760_None.MOV,15.13
+0_2023-08-02_13_44_56.1680_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_44_56.1680_None.MOV,7.47
+1_2023-08-16_16_02_50.2970_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_16_02_50.2970_None.MOV,59.81
+0_2023-08-08_16_18_30.5610_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_18_30.5610_None.MOV,14.67
+0_2023-08-03_15_44_12.9750_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_44_12.9750_None.MOV,12.04
+0_2023-08-07_13_21_41.2000_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_21_41.2000_None.MOV,16.27
+0_2023-08-02_13_43_32.6560_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_43_32.6560_None.MOV,6.4
+0_2023-08-03_15_49_21.2900_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_49_21.2900_None.MOV,10.04
+0_2023-08-09_16_46_55.6270_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_46_55.6270_None.MOV,18.2
+0_2023-08-02_14_21_55.7130_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_21_55.7130_None.MOV,10.6
+0_2023-08-07_13_26_05.7400_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_26_05.7400_None.MOV,14.13
+0_2023-08-07_15_54_21.2060_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_54_21.2060_None.MOV,14.34
+0_2023-08-07_15_26_14.2340_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_26_14.2340_None.MOV,14.23
+0_2023-08-07_15_27_14.7710_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_27_14.7710_None.MOV,57.3
+0_2023-08-16_16_50_50.7860_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_50_50.7860_None.MOV,59.87
+0_2023-08-03_16_06_11.2740_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_16_06_11.2740_None.MOV,9.77
+0_2023-08-07_15_40_37.6430_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_40_37.6430_None.MOV,32.27
+0_2023-08-08_16_04_33.3680_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_04_33.3680_None.MOV,17.8
+0_2023-08-07_15_44_27.1880_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_44_27.1880_None.MOV,14.54
+0_2023-08-03_16_03_07.6090_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_16_03_07.6090_None.MOV,9.73
+0_2023-08-07_13_23_59.4490_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_23_59.4490_None.MOV,13.8
+0_2023-08-07_15_24_12.7150_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_24_12.7150_None.MOV,48.3
+0_2023-08-08_16_42_58.3510_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_42_58.3510_None.MOV,12.7
+0_2023-08-02_14_23_41.5320_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_23_41.5320_None.MOV,11.83
+0_2023-08-08_16_19_05.2970_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_19_05.2970_None.MOV,13.33
+1_2023-08-08_16_31_07.7580_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-08_16_31_07.7580_None.MOV,25.57
+0_2023-08-07_13_17_55.5810_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_17_55.5810_None.MOV,13.33
+0_2023-08-02_13_54_18.5360_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_54_18.5360_None.MOV,10.9
+0_2023-08-16_15_56_17.2540_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_15_56_17.2540_None.MOV,59.81
+0_2023-08-02_13_57_50.0600_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_57_50.0600_None.MOV,10.67
+0_2023-08-08_16_03_43.3100_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_03_43.3100_None.MOV,18.7
+0_2023-08-07_15_19_28.1290_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_19_28.1290_None.MOV,17.4
+0_2023-08-07_15_35_21.4710_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_35_21.4710_None.MOV,35.74
+0_2023-08-07_15_21_45.2200_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_21_45.2200_None.MOV,22.77
+0_2023-08-07_16_13_33.7570_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_13_33.7570_None.MOV,23.84
+0_2023-08-03_15_33_20.8510_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_33_20.8510_None.MOV,12.34
+0_2023-08-07_13_21_11.7120_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_21_11.7120_None.MOV,14.13
+0_2023-08-02_14_21_02.4440_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_21_02.4440_None.MOV,10.8
+0_2023-08-16_16_52_50.9190_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_52_50.9190_None.MOV,59.77
+0_2023-08-03_15_40_05.0910_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_40_05.0910_None.MOV,11.73
+0_2023-08-02_12_30_45.8060_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_12_30_45.8060_None.MOV,7.63
+2_2023-08-16_16_02_50.2970_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/2_2023-08-16_16_02_50.2970_None.MOV,42.17
+0_2023-08-08_16_08_47.7940_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_08_47.7940_None.MOV,32.17
+0_2023-08-02_14_29_58.8360_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_29_58.8360_None.MOV,10.44
+2_2023-08-16_17_14_44.7950_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/2_2023-08-16_17_14_44.7950_None.MOV,59.84
+0_2023-08-07_13_25_39.4160_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_25_39.4160_None.MOV,15.44
+0_2023-08-02_13_44_14.9150_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_44_14.9150_None.MOV,7.3
+0_2023-08-08_16_41_03.1520_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_41_03.1520_None.MOV,11.04
+0_2023-08-16_16_02_50.2970_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_02_50.2970_None.MOV,59.81
+0_2023-08-16_17_14_44.7950_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_17_14_44.7950_None.MOV,59.77
+0_2023-08-03_15_36_54.0370_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_36_54.0370_None.MOV,19.27
+0_2023-08-03_15_51_04.6990_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_51_04.6990_None.MOV,7.13
+0_2023-08-03_15_40_53.2370_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_40_53.2370_None.MOV,12.67
+2_2023-08-16_15_56_17.2540_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/2_2023-08-16_15_56_17.2540_None.MOV,51.51
+0_2023-08-02_14_27_05.2910_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_27_05.2910_None.MOV,10.47
+0_2023-08-09_16_49_29.2480_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_49_29.2480_None.MOV,11.6
+0_2023-08-07_15_26_42.5930_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_26_42.5930_None.MOV,16.34
+0_2023-08-08_16_13_19.4620_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_13_19.4620_None.MOV,21.0
+0_2023-08-07_15_54_58.2440_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_54_58.2440_None.MOV,54.17
+0_2023-08-02_14_24_12.5830_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_24_12.5830_None.MOV,11.0
+0_2023-08-08_16_06_50.7810_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_06_50.7810_None.MOV,16.37
+0_2023-08-07_13_25_06.9740_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_25_06.9740_None.MOV,14.9
+0_2023-08-08_16_08_14.6240_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_08_14.6240_None.MOV,24.0
+0_2023-08-07_16_12_24.1510_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_12_24.1510_None.MOV,47.34
+1_2023-08-16_16_50_50.7860_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_16_50_50.7860_None.MOV,8.54
+0_2023-08-03_15_53_11.0940_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_53_11.0940_None.MOV,6.47
+0_2023-08-02_14_22_53.0440_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_22_53.0440_None.MOV,10.34
+0_2023-08-09_16_45_05.1030_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_45_05.1030_None.MOV,17.37
+0_2023-08-07_15_41_27.1950_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_41_27.1950_None.MOV,12.8
+0_2023-08-07_15_38_59.8170_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_38_59.8170_None.MOV,39.57
+0_2023-08-03_15_49_41.4930_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_49_41.4930_None.MOV,9.7
+0_2023-08-07_13_20_24.9720_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_20_24.9720_None.MOV,11.47
+0_2023-08-02_14_21_31.6760_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_21_31.6760_None.MOV,11.4
+0_2023-08-02_13_56_13.8540_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_56_13.8540_None.MOV,10.63
+0_2023-08-09_16_50_49.0740_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_50_49.0740_None.MOV,25.34
+0_2023-08-07_16_03_15.4640_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_03_15.4640_None.MOV,15.77
+0_2023-08-03_15_53_40.6630_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_53_40.6630_None.MOV,11.17
+0_2023-08-02_12_29_48.3740_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_12_29_48.3740_None.MOV,23.5
+0_2023-08-02_13_58_42.0790_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_58_42.0790_None.MOV,11.0
+0_2023-08-07_15_37_52.9600_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_37_52.9600_None.MOV,13.93
+0_2023-08-08_16_17_33.2030_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_17_33.2030_None.MOV,10.47
+0_2023-08-09_16_49_58.8770_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_49_58.8770_None.MOV,16.73
+2_2023-08-16_16_58_44.6600_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/2_2023-08-16_16_58_44.6600_None.MOV,59.81
+0_2023-08-07_15_39_58.6890_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_39_58.6890_None.MOV,19.8
+0_2023-08-03_15_33_50.9770_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_33_50.9770_None.MOV,11.17
+0_2023-08-08_16_36_48.2200_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_36_48.2200_None.MOV,47.11
+0_2023-08-16_16_55_02.7320_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_55_02.7320_None.MOV,49.34
+0_2023-08-03_15_46_55.6160_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_46_55.6160_None.MOV,7.87
+0_2023-08-08_16_05_58.1460_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_05_58.1460_None.MOV,18.37
+0_2023-08-08_16_40_41.0990_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_40_41.0990_None.MOV,15.07
+0_2023-08-02_14_18_48.3530_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_18_48.3530_None.MOV,12.27
+0_2023-08-07_16_08_05.5910_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_08_05.5910_None.MOV,13.54
+0_2023-08-08_16_07_50.4780_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_07_50.4780_None.MOV,16.1
+0_2023-08-08_16_39_07.2750_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_39_07.2750_None.MOV,26.84
+0_2023-08-16_16_58_44.6600_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_58_44.6600_None.MOV,59.81
+0_2023-08-07_13_24_45.9940_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_24_45.9940_None.MOV,12.7
+0_2023-08-08_16_09_42.4860_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_09_42.4860_None.MOV,9.7
+0_2023-08-03_15_41_32.4900_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_41_32.4900_None.MOV,12.4
+0_2023-08-02_14_20_42.6380_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_20_42.6380_None.MOV,10.54
+0_2023-08-16_16_00_07.5770_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_00_07.5770_None.MOV,59.77
+0_2023-08-02_13_48_46.8980_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_48_46.8980_None.MOV,11.4
+0_2023-08-07_15_18_49.0500_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_18_49.0500_None.MOV,19.37
+0_2023-08-03_15_43_15.9030_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_43_15.9030_None.MOV,13.2
+0_2023-08-03_15_47_17.8160_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_47_17.8160_None.MOV,10.84
+0_2023-08-02_14_26_04.3420_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_26_04.3420_None.MOV,10.47
+0_2023-08-16_16_56_19.3460_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_56_19.3460_None.MOV,59.77
+0_2023-08-08_16_01_53.2340_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_01_53.2340_None.MOV,43.3
+0_2023-08-03_15_57_27.4030_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_57_27.4030_None.MOV,8.57
+0_2023-08-07_15_41_54.4930_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_41_54.4930_None.MOV,36.0
+0_2023-08-02_13_58_17.1600_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_58_17.1600_None.MOV,11.27
+0_2023-08-07_16_05_18.4960_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_05_18.4960_None.MOV,22.77
+0_2023-08-07_15_23_21.1810_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_23_21.1810_None.MOV,31.3
+0_2023-08-03_15_34_22.7160_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_34_22.7160_None.MOV,11.13
+0_2023-08-02_14_26_39.0420_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_26_39.0420_None.MOV,10.6
+0_2023-08-03_15_50_37.2120_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_50_37.2120_None.MOV,13.1
+0_2023-08-07_15_33_33.5760_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_33_33.5760_None.MOV,18.7
+0_2023-08-07_13_19_07.4590_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_19_07.4590_None.MOV,15.27
+0_2023-08-09_16_43_14.5640_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_43_14.5640_None.MOV,18.7
+0_2023-08-02_14_10_19.3740_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_10_19.3740_None.MOV,11.07
+0_2023-08-07_15_20_20.9230_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_20_20.9230_None.MOV,21.87
+0_2023-08-03_15_48_34.7360_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_48_34.7360_None.MOV,7.3
+0_2023-08-03_15_40_30.9970_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_40_30.9970_None.MOV,7.07
+0_2023-08-03_15_41_54.0890_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_41_54.0890_None.MOV,15.87
+0_2023-08-02_13_43_05.5720_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_43_05.5720_None.MOV,7.03
+0_2023-08-07_13_18_28.5610_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_13_18_28.5610_None.MOV,14.3
+0_2023-08-07_16_19_13.9630_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_16_19_13.9630_None.MOV,23.84
+0_2023-08-02_14_25_46.5950_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_25_46.5950_None.MOV,10.73
+0_2023-08-02_14_25_05.9120_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_25_05.9120_None.MOV,10.97
+0_2023-08-03_15_54_01.5130_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_54_01.5130_None.MOV,10.67
+0_2023-08-03_16_03_25.4200_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_16_03_25.4200_None.MOV,10.63
+0_2023-08-02_13_46_38.0960_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_46_38.0960_None.MOV,10.57
+0_2023-08-09_16_47_51.5970_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_47_51.5970_None.MOV,12.57
+0_2023-08-03_15_56_39.4310_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_56_39.4310_None.MOV,8.07
+0_2023-08-03_15_54_20.0170_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_54_20.0170_None.MOV,9.4
+0_2023-08-07_15_52_25.4940_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_52_25.4940_None.MOV,17.7
+0_2023-08-02_14_19_19.7790_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_19_19.7790_None.MOV,10.2
+3_2023-08-16_16_58_44.6600_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/3_2023-08-16_16_58_44.6600_None.MOV,3.77
+0_2023-08-08_16_11_13.2760_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_11_13.2760_None.MOV,42.47
+0_2023-08-02_14_24_43.8320_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_24_43.8320_None.MOV,10.63
+1_2023-08-16_16_58_44.6600_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_16_58_44.6600_None.MOV,59.84
+0_2023-08-03_15_58_30.1160_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_58_30.1160_None.MOV,13.17
+0_2023-08-08_16_32_54.6420_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_32_54.6420_None.MOV,17.44
+0_2023-08-09_16_42_17.9000_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_42_17.9000_None.MOV,10.47
+0_2023-08-16_16_45_13.2410_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-16_16_45_13.2410_None.MOV,30.64
+1_2023-08-16_16_00_07.5770_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_16_00_07.5770_None.MOV,10.07
+0_2023-08-07_15_51_46.7040_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_51_46.7040_None.MOV,23.87
+1_2023-08-16_16_56_19.3460_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/1_2023-08-16_16_56_19.3460_None.MOV,30.1
+0_2023-08-09_16_48_30.8670_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_48_30.8670_None.MOV,12.24
+0_2023-08-02_13_54_00.0550_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_13_54_00.0550_None.MOV,10.8
+0_2023-08-08_16_15_35.5190_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_15_35.5190_None.MOV,3.6
+0_2023-08-02_14_09_31.7190_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_09_31.7190_None.MOV,12.04
+0_2023-08-03_15_42_45.1630_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-03_15_42_45.1630_None.MOV,13.61
+0_2023-08-02_14_27_59.5700_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_27_59.5700_None.MOV,10.63
+0_2023-08-07_15_47_42.0360_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-07_15_47_42.0360_None.MOV,26.2
+0_2023-08-02_14_30_16.5640_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_30_16.5640_None.MOV,10.94
+0_2023-08-08_16_14_56.2280_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_14_56.2280_None.MOV,17.73
+0_2023-08-08_16_14_12.1540_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-08_16_14_12.1540_None.MOV,17.0
+0_2023-08-02_14_27_22.4930_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-02_14_27_22.4930_None.MOV,10.7
+0_2023-08-09_16_39_23.7080_None.MOV,junha.kim,none,10_3_2023_all_data/continuous_data/user_data/junha.kim/0_2023-08-09_16_39_23.7080_None.MOV,58.67
+1_2023-08-16_17_00_18.7540_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-08-16_17_00_18.7540_None.MOV,52.11
+0_2023-08-07_15_31_35.7560_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_31_35.7560_None.MOV,20.03
+0_2023-08-07_16_08_41.0000_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_08_41.0000_None.MOV,24.6
+0_2023-08-09_17_05_14.2740_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_05_14.2740_None.MOV,31.59
+0_2023-08-08_16_55_13.0010_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_55_13.0010_None.MOV,28.06
+0_2023-08-07_15_20_35.8120_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_20_35.8120_None.MOV,59.92
+0_2023-08-09_16_46_57.2430_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_46_57.2430_None.MOV,11.96
+0_2023-08-09_16_57_18.7170_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_57_18.7170_None.MOV,19.23
+0_2023-08-07_15_26_12.5760_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_26_12.5760_None.MOV,52.89
+0_2023-08-16_16_43_53.9380_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_16_43_53.9380_None.MOV,15.19
+0_2023-08-03_16_09_50.7010_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_09_50.7010_None.MOV,9.93
+0_2023-08-08_17_05_36.2000_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_05_36.2000_None.MOV,17.7
+0_2023-08-09_17_18_17.1210_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_18_17.1210_None.MOV,21.2
+3_2023-07-14_13_09_01.0470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/3_2023-07-14_13_09_01.0470_None.MOV,54.36
+0_2023-08-08_16_52_17.0310_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_52_17.0310_None.MOV,35.36
+0_2023-08-07_16_23_37.6880_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_23_37.6880_None.MOV,47.93
+0_2023-08-08_17_07_40.8680_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_07_40.8680_None.MOV,26.4
+0_2023-08-16_16_44_18.9800_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_16_44_18.9800_None.MOV,17.68
+0_2023-08-03_15_32_54.4150_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_32_54.4150_None.MOV,23.6
+0_2023-08-03_15_57_24.5240_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_57_24.5240_None.MOV,25.83
+0_2023-08-07_16_00_14.8290_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_00_14.8290_None.MOV,20.6
+0_2023-08-09_16_49_19.7640_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_49_19.7640_None.MOV,12.13
+0_2023-08-07_15_38_41.2250_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_38_41.2250_None.MOV,23.43
+0_2023-08-09_17_23_14.9720_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_23_14.9720_None.MOV,13.63
+0_2023-08-03_15_34_41.6720_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_34_41.6720_None.MOV,20.73
+0_2023-08-08_17_13_44.9780_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_13_44.9780_None.MOV,21.5
+0_2023-08-09_17_02_34.1490_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_02_34.1490_None.MOV,19.86
+1_2023-08-16_16_50_56.7280_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-08-16_16_50_56.7280_None.MOV,40.35
+0_2023-08-09_17_12_17.4870_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_12_17.4870_None.MOV,21.66
+0_2023-08-09_15_54_28.9370_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_15_54_28.9370_None.MOV,6.87
+0_2023-08-09_16_56_43.6050_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_56_43.6050_None.MOV,19.33
+0_2023-08-09_16_55_17.8460_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_55_17.8460_None.MOV,14.37
+4_2023-07-14_13_13_33.6360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/4_2023-07-14_13_13_33.6360_None.MOV,5.03
+0_2023-08-03_16_06_50.6470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_06_50.6470_None.MOV,27.3
+0_2023-08-09_17_16_49.1620_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_16_49.1620_None.MOV,13.93
+0_2023-08-09_17_00_07.2900_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_00_07.2900_None.MOV,12.5
+0_2023-08-03_16_17_11.4240_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_17_11.4240_None.MOV,14.83
+4_2023-07-14_13_01_18.4620_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/4_2023-07-14_13_01_18.4620_None.MOV,59.79
+0_2023-08-09_17_14_04.0260_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_14_04.0260_None.MOV,23.1
+0_2023-08-08_16_59_45.1610_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_59_45.1610_None.MOV,15.6
+0_2023-08-07_15_35_55.3250_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_35_55.3250_None.MOV,19.1
+0_2023-08-07_16_12_59.8260_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_12_59.8260_None.MOV,27.96
+0_2023-08-03_15_52_40.0730_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_52_40.0730_None.MOV,12.39
+0_2023-08-03_15_47_06.7370_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_47_06.7370_None.MOV,16.1
+0_2023-08-09_16_51_15.7190_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_51_15.7190_None.MOV,12.73
+1_2023-07-14_13_09_01.0470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-07-14_13_09_01.0470_None.MOV,59.76
+0_2023-08-09_17_07_31.4310_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_07_31.4310_None.MOV,23.4
+0_2023-08-09_17_03_33.3520_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_03_33.3520_None.MOV,16.77
+0_2023-08-07_15_51_33.1910_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_51_33.1910_None.MOV,21.36
+0_2023-08-03_15_53_18.2110_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_53_18.2110_None.MOV,22.7
+0_2023-08-16_16_03_34.7050_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_16_03_34.7050_None.MOV,57.06
+0_2023-08-07_15_43_15.4300_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_43_15.4300_None.MOV,36.13
+0_2023-08-09_17_00_26.9880_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_00_26.9880_None.MOV,14.4
+2_2023-08-07_15_20_35.8120_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/2_2023-08-07_15_20_35.8120_None.MOV,2.83
+0_2023-08-08_16_56_56.6430_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_56_56.6430_None.MOV,37.09
+0_2023-08-09_17_26_47.9080_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_26_47.9080_None.MOV,23.83
+0_2023-08-08_16_53_04.5830_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_53_04.5830_None.MOV,21.2
+0_2023-08-09_17_06_58.1520_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_06_58.1520_None.MOV,12.46
+0_2023-08-07_16_09_44.7480_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_09_44.7480_None.MOV,21.43
+0_2023-08-07_15_48_54.6530_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_48_54.6530_None.MOV,36.06
+1_2023-08-07_15_20_35.8120_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-08-07_15_20_35.8120_None.MOV,59.79
+0_2023-08-08_17_08_22.0350_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_08_22.0350_None.MOV,27.07
+0_2023-08-16_17_00_18.7540_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_17_00_18.7540_None.MOV,60.0
+0_2023-08-03_15_33_36.9440_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_33_36.9440_None.MOV,13.96
+0_2023-08-07_16_17_41.4360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_17_41.4360_None.MOV,39.63
+2_2023-07-14_13_09_01.0470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/2_2023-07-14_13_09_01.0470_None.MOV,59.82
+0_2023-08-09_16_51_37.3930_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_51_37.3930_None.MOV,21.06
+0_2023-08-03_15_35_34.3060_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_35_34.3060_None.MOV,20.56
+0_2023-08-09_17_19_26.8090_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_19_26.8090_None.MOV,21.9
+0_2023-08-07_15_33_26.7360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_33_26.7360_None.MOV,28.26
+0_2023-08-09_16_50_09.2230_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_50_09.2230_None.MOV,29.2
+0_2023-08-08_16_33_14.2490_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_33_14.2490_None.MOV,13.7
+0_2023-08-08_16_58_30.8760_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_58_30.8760_None.MOV,23.9
+0_2023-08-09_17_06_38.9340_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_06_38.9340_None.MOV,15.1
+0_2023-08-08_16_42_17.1510_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_42_17.1510_None.MOV,17.6
+0_2023-08-09_17_05_59.8470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_05_59.8470_None.MOV,13.06
+0_2023-08-09_17_18_44.1000_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_18_44.1000_None.MOV,23.1
+0_2023-08-16_16_50_56.7280_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_16_50_56.7280_None.MOV,59.97
+0_2023-08-03_15_48_35.1660_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_48_35.1660_None.MOV,13.7
+0_2023-08-08_16_43_40.3670_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_43_40.3670_None.MOV,11.2
+0_2023-08-09_17_00_58.4340_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_00_58.4340_None.MOV,11.0
+0_2023-08-08_17_00_53.1890_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_00_53.1890_None.MOV,34.66
+0_2023-08-08_17_06_01.2790_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_06_01.2790_None.MOV,22.63
+0_2023-08-07_15_44_30.7460_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_44_30.7460_None.MOV,17.53
+0_2023-08-08_16_41_23.5340_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_41_23.5340_None.MOV,41.66
+0_2023-08-03_15_58_40.3550_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_58_40.3550_None.MOV,1.67
+0_2023-08-03_16_20_05.0750_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_20_05.0750_None.MOV,14.53
+0_2023-08-09_17_09_32.1890_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_09_32.1890_None.MOV,33.23
+0_2023-08-09_17_17_18.0810_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_17_18.0810_None.MOV,12.03
+5_2023-07-14_13_01_18.4620_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/5_2023-07-14_13_01_18.4620_None.MOV,20.86
+0_2023-08-07_16_02_46.6010_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_02_46.6010_None.MOV,30.23
+0_2023-08-07_15_39_45.4600_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_39_45.4600_None.MOV,12.08
+0_2023-08-09_17_12_49.7450_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_12_49.7450_None.MOV,20.9
+0_2023-08-09_17_03_10.4200_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_03_10.4200_None.MOV,17.63
+0_2023-08-09_17_19_54.9470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_19_54.9470_None.MOV,22.13
+0_2023-08-09_17_24_50.4460_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_24_50.4460_None.MOV,22.9
+0_2023-07-14_13_09_01.0470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-07-14_13_09_01.0470_None.MOV,59.99
+0_2023-08-03_15_46_22.0350_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_46_22.0350_None.MOV,19.2
+0_2023-08-03_15_40_34.8970_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_40_34.8970_None.MOV,21.43
+0_2023-08-09_16_45_08.2660_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_45_08.2660_None.MOV,15.03
+0_2023-08-09_17_24_22.4370_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_24_22.4370_None.MOV,19.56
+0_2023-08-09_17_16_31.0530_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_16_31.0530_None.MOV,13.8
+0_2023-08-03_16_05_56.7050_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_05_56.7050_None.MOV,26.66
+0_2023-08-07_16_12_10.3210_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_12_10.3210_None.MOV,35.93
+0_2023-08-03_15_56_23.9680_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_56_23.9680_None.MOV,18.83
+0_2023-08-16_15_57_48.8590_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_15_57_48.8590_None.MOV,59.96
+0_2023-08-09_17_02_08.5880_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_02_08.5880_None.MOV,18.16
+0_2023-08-09_17_22_16.9290_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_22_16.9290_None.MOV,13.93
+0_2023-08-09_16_56_18.3900_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_56_18.3900_None.MOV,19.1
+0_2023-08-08_17_06_48.6730_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_06_48.6730_None.MOV,37.4
+0_2023-08-08_16_57_48.5540_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_57_48.5540_None.MOV,23.66
+1_2023-08-16_15_55_57.9340_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-08-16_15_55_57.9340_None.MOV,32.49
+0_2023-08-03_15_37_47.8230_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_37_47.8230_None.MOV,18.46
+0_2023-08-08_17_09_01.1980_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_09_01.1980_None.MOV,26.94
+0_2023-08-07_15_37_18.1760_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_37_18.1760_None.MOV,18.97
+0_2023-08-07_16_20_08.2360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_20_08.2360_None.MOV,13.8
+0_2023-08-07_15_46_47.1090_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_46_47.1090_None.MOV,26.26
+3_2023-07-14_13_13_33.6360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/3_2023-07-14_13_13_33.6360_None.MOV,59.82
+0_2023-08-09_17_27_40.2530_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_27_40.2530_None.MOV,37.3
+0_2023-08-09_17_22_56.7760_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_22_56.7760_None.MOV,13.6
+3_2023-07-14_13_01_18.4620_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/3_2023-07-14_13_01_18.4620_None.MOV,59.8
+0_2023-08-03_15_49_06.4440_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_49_06.4440_None.MOV,8.96
+0_2023-08-03_16_19_32.1870_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_19_32.1870_None.MOV,14.57
+0_2023-08-16_16_53_00.0240_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_16_53_00.0240_None.MOV,59.99
+0_2023-08-08_16_54_32.7470_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_54_32.7470_None.MOV,24.16
+0_2023-08-07_16_06_16.6410_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_06_16.6410_None.MOV,24.06
+0_2023-08-07_15_23_04.1240_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_23_04.1240_None.MOV,13.9
+2_2023-08-16_16_53_00.0240_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/2_2023-08-16_16_53_00.0240_None.MOV,5.58
+0_2023-08-07_15_34_21.3450_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_34_21.3450_None.MOV,48.28
+0_2023-08-08_17_26_02.2700_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_26_02.2700_None.MOV,15.66
+1_2023-07-14_13_01_18.4620_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-07-14_13_01_18.4620_None.MOV,59.79
+0_2023-08-07_15_55_03.0750_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_55_03.0750_None.MOV,23.7
+0_2023-08-08_17_28_02.8450_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_28_02.8450_None.MOV,16.86
+0_2023-08-09_17_10_21.7730_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_10_21.7730_None.MOV,13.5
+0_2023-08-07_16_14_03.2440_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_14_03.2440_None.MOV,29.53
+0_2023-08-09_17_04_20.9310_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_04_20.9310_None.MOV,14.43
+0_2023-08-03_15_42_32.3100_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_42_32.3100_None.MOV,14.78
+1_2023-07-14_13_13_33.6360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-07-14_13_13_33.6360_None.MOV,59.76
+0_2023-08-03_15_40_03.2800_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_40_03.2800_None.MOV,16.4
+0_2023-08-03_15_43_10.8540_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_43_10.8540_None.MOV,11.11
+0_2023-08-07_15_52_46.9850_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_52_46.9850_None.MOV,58.19
+0_2023-08-07_15_41_33.1690_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_41_33.1690_None.MOV,22.86
+0_2023-08-03_15_41_46.4780_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_41_46.4780_None.MOV,24.7
+0_2023-08-08_16_48_12.5090_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_48_12.5090_None.MOV,44.09
+0_2023-08-09_17_15_27.0230_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_15_27.0230_None.MOV,21.23
+1_2023-08-16_15_57_48.8590_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-08-16_15_57_48.8590_None.MOV,16.46
+0_2023-08-03_15_47_32.6160_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_47_32.6160_None.MOV,10.46
+0_2023-08-09_16_58_22.4810_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_58_22.4810_None.MOV,14.0
+0_2023-08-03_11_32_58.3050_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_11_32_58.3050_None.MOV,12.46
+0_2023-08-08_16_59_09.7220_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_59_09.7220_None.MOV,20.76
+0_2023-08-09_16_50_56.2530_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_50_56.2530_None.MOV,13.4
+0_2023-08-09_16_48_55.7380_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_48_55.7380_None.MOV,13.03
+0_2023-08-03_15_54_05.3500_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_54_05.3500_None.MOV,33.26
+0_2023-08-08_16_51_23.4980_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_51_23.4980_None.MOV,35.36
+0_2023-08-08_17_29_04.8230_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_29_04.8230_None.MOV,24.7
+0_2023-08-03_15_36_39.7730_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_36_39.7730_None.MOV,20.03
+0_2023-08-16_15_55_57.9340_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_15_55_57.9340_None.MOV,59.89
+0_2023-08-03_15_59_47.9070_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_59_47.9070_None.MOV,10.6
+0_2023-08-09_17_21_28.1720_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_21_28.1720_None.MOV,14.9
+0_2023-08-03_15_34_06.0210_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_34_06.0210_None.MOV,20.53
+2_2023-07-14_13_13_33.6360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/2_2023-07-14_13_13_33.6360_None.MOV,59.79
+0_2023-08-09_17_14_58.8290_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_14_58.8290_None.MOV,23.43
+0_2023-08-09_15_54_59.2390_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_15_54_59.2390_None.MOV,6.57
+0_2023-08-09_17_21_57.5830_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_21_57.5830_None.MOV,15.07
+0_2023-08-09_17_11_42.2040_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_11_42.2040_None.MOV,12.03
+0_2023-08-08_17_24_35.0270_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_24_35.0270_None.MOV,19.03
+0_2023-08-09_17_01_29.0080_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_01_29.0080_None.MOV,13.44
+0_2023-08-16_16_45_31.2870_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_16_45_31.2870_None.MOV,34.41
+0_2023-08-08_17_14_37.6740_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_14_37.6740_None.MOV,38.53
+0_2023-08-03_15_50_32.8280_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_50_32.8280_None.MOV,28.2
+1_2023-08-16_16_53_00.0240_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/1_2023-08-16_16_53_00.0240_None.MOV,59.76
+2_2023-07-14_13_01_18.4620_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/2_2023-07-14_13_01_18.4620_None.MOV,59.79
+0_2023-08-08_17_26_29.7410_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_26_29.7410_None.MOV,25.36
+0_2023-07-14_13_01_18.4620_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-07-14_13_01_18.4620_None.MOV,59.96
+0_2023-08-07_15_40_18.9500_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_40_18.9500_None.MOV,51.2
+0_2023-08-03_15_49_58.3820_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_49_58.3820_None.MOV,14.53
+0_2023-08-07_15_30_27.1420_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_30_27.1420_None.MOV,10.33
+0_2023-08-03_15_59_18.2130_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_59_18.2130_None.MOV,9.66
+0_2023-08-08_17_15_58.8290_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_15_58.8290_None.MOV,22.56
+0_2023-08-09_17_21_06.6940_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_21_06.6940_None.MOV,13.77
+0_2023-08-09_17_04_40.9220_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_04_40.9220_None.MOV,11.23
+0_2023-08-07_16_15_48.7580_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_15_48.7580_None.MOV,18.23
+0_2023-08-16_16_49_04.4810_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-16_16_49_04.4810_None.MOV,20.2
+0_2023-08-08_16_34_28.8050_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_34_28.8050_None.MOV,41.53
+0_2023-08-08_17_27_08.0580_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_27_08.0580_None.MOV,18.13
+0_2023-08-07_15_47_25.6230_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_15_47_25.6230_None.MOV,50.39
+0_2023-08-08_17_28_33.0990_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_28_33.0990_None.MOV,20.1
+0_2023-08-08_16_53_50.3560_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_53_50.3560_None.MOV,19.83
+0_2023-08-07_16_20_28.4900_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_20_28.4900_None.MOV,24.6
+0_2023-07-14_13_13_33.6360_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-07-14_13_13_33.6360_None.MOV,59.96
+0_2023-08-09_17_08_03.2370_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_17_08_03.2370_None.MOV,23.83
+0_2023-08-08_17_12_49.3140_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_17_12_49.3140_None.MOV,25.2
+0_2023-08-03_16_03_12.1680_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_03_12.1680_None.MOV,22.0
+0_2023-08-03_16_10_29.9820_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_10_29.9820_None.MOV,15.93
+0_2023-08-03_16_08_46.5740_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_08_46.5740_None.MOV,15.8
+0_2023-08-08_16_56_11.9040_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-08_16_56_11.9040_None.MOV,28.4
+0_2023-08-03_16_23_45.3290_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_16_23_45.3290_None.MOV,16.13
+0_2023-08-09_16_58_48.0230_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-09_16_58_48.0230_None.MOV,22.06
+0_2023-08-07_16_19_11.1870_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-07_16_19_11.1870_None.MOV,19.73
+0_2023-08-03_15_58_46.8010_None.MOV,wayne.lam001@stu.bmcc.cuny.edu,none,10_3_2023_all_data/continuous_data/user_data/wayne.lam001@stu.bmcc.cuny.edu/0_2023-08-03_15_58_46.8010_None.MOV,18.76
+2022-10-27_9-20-21-9260_None.MOV,Christian Barbosa,none,10_3_2023_all_data/data/user_data/Christian Barbosa/2022-10-27_9-20-21-9260_None.MOV,20.63
+2022-11-28_12-33-23-8250_None.MOV,Christian Barbosa,none,10_3_2023_all_data/data/user_data/Christian Barbosa/2022-11-28_12-33-23-8250_None.MOV,30.98
+2022-10-27_9-34-01-1050_None.MOV,Dilshod Ochilov,none,10_3_2023_all_data/data/user_data/Dilshod Ochilov/2022-10-27_9-34-01-1050_None.MOV,15.2
+2022-10-27_10-24-41-4280_None.MOV,Dilshod Ochilov,none,10_3_2023_all_data/data/user_data/Dilshod Ochilov/2022-10-27_10-24-41-4280_None.MOV,31.04
+2022-10-27_9-28-08-3600_None.MOV,Dilshod Ochilov,none,10_3_2023_all_data/data/user_data/Dilshod Ochilov/2022-10-27_9-28-08-3600_None.MOV,32.5
+5_2023-03-12_16-38-33-4280_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/5_2023-03-12_16-38-33-4280_None.MOV,59.84
+1_2023-03-07_14-37-46-7380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/1_2023-03-07_14-37-46-7380_None.MOV,59.84
+2_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/2_2023-03-12_16-29-00-1380_None.MOV,59.81
+1_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/1_2023-03-12_16-29-00-1380_None.MOV,59.84
+2_2023-03-07_14-37-46-7380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/2_2023-03-07_14-37-46-7380_None.MOV,0.2
+4_2023-03-12_16-38-33-4280_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/4_2023-03-12_16-38-33-4280_None.MOV,59.81
+6_2023-03-12_16-38-33-4280_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/6_2023-03-12_16-38-33-4280_None.MOV,19.87
+3_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/3_2023-03-12_16-29-00-1380_None.MOV,59.81
+5_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/5_2023-03-12_16-29-00-1380_None.MOV,59.84
+8_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/8_2023-03-12_16-29-00-1380_None.MOV,26.54
+7_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/7_2023-03-12_16-29-00-1380_None.MOV,59.84
+2_2023-03-12_16-38-33-4280_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/2_2023-03-12_16-38-33-4280_None.MOV,59.84
+1_2023-03-12_16-38-33-4280_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/1_2023-03-12_16-38-33-4280_None.MOV,59.81
+4_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/4_2023-03-12_16-29-00-1380_None.MOV,59.84
+6_2023-03-12_16-29-00-1380_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/6_2023-03-12_16-29-00-1380_None.MOV,59.81
+3_2023-03-12_16-38-33-4280_None.MOV,junha.kim,none,10_3_2023_all_data/data/user_data/junha.kim/3_2023-03-12_16-38-33-4280_None.MOV,59.81
+2022-10-27_9-59-15-9630_None.MOV,Nabeel Ahmed,none,10_3_2023_all_data/data/user_data/Nabeel Ahmed/2022-10-27_9-59-15-9630_None.MOV,31.37
+2022-11-07_12-27-38-9850_None.MOV,Daeshawn LaBrew,none,10_3_2023_all_data/data/user_data/Daeshawn LaBrew/2022-11-07_12-27-38-9850_None.MOV,30.64
+2022-11-07_11-54-42-3070_None.MOV,Daeshawn LaBrew,none,10_3_2023_all_data/data/user_data/Daeshawn LaBrew/2022-11-07_11-54-42-3070_None.MOV,31.64
+2022-11-01_9-19-32-9540_None.MOV,Daeshawn LaBrew,none,10_3_2023_all_data/data/user_data/Daeshawn LaBrew/2022-11-01_9-19-32-9540_None.MOV,1.54
+2022-11-07_11-53-44-9410_None.MOV,Daeshawn LaBrew,none,10_3_2023_all_data/data/user_data/Daeshawn LaBrew/2022-11-07_11-53-44-9410_None.MOV,32.54
+2022-12-12_16-03-57-8170_None.MOV,Dilshodpart3,none,10_3_2023_all_data/data/user_data/Dilshodpart3/2022-12-12_16-03-57-8170_None.MOV,32.64
+2022-12-20_15-11-45-1920_None.MOV,jiawei-walk-test,none,10_3_2023_all_data/data/user_data/jiawei-walk-test/2022-12-20_15-11-45-1920_None.MOV,42.33
+2022-12-20_15-18-36-4240_None.MOV,jiawei-walk-test,none,10_3_2023_all_data/data/user_data/jiawei-walk-test/2022-12-20_15-18-36-4240_None.MOV,28.03
+2022-12-20_15-00-34-0690_None.MOV,jiawei-walk-test,none,10_3_2023_all_data/data/user_data/jiawei-walk-test/2022-12-20_15-00-34-0690_None.MOV,48.49
+2022-12-20_15-23-12-4410_None.MOV,jiawei-walk-test,none,10_3_2023_all_data/data/user_data/jiawei-walk-test/2022-12-20_15-23-12-4410_None.MOV,22.46

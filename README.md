@@ -112,5 +112,3 @@ _You can use any CSV with columns: `download_link`, `video_name`, `collector_nam
 ## License
 
 MIT License
-
-# legacy_sidewalk_data_labelbox

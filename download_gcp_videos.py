@@ -1,6 +1,7 @@
 import os
 from google.cloud import storage
 from dotenv import load_dotenv
+import tqdm
 
 load_dotenv()
 
@@ -9,7 +10,7 @@ GCS_PROJECT_ID = os.getenv("GCS_PROJECT_ID")
 DESTINATION_BUCKET_NAME = os.getenv("DESTINATION_BUCKET_NAME")
 
 # 2. Local download directory
-LOCAL_DOWNLOAD_DIR = "labelbox_sidewalk_legacy_data"
+LOCAL_DOWNLOAD_DIR = "labelbox_sidewalk_testbed_data"
 
 
 def download_all_videos_from_bucket():
@@ -31,7 +32,7 @@ def download_all_videos_from_bucket():
     video_files = [blob for blob in blobs if blob.name.lower().endswith(('.mp4', '.mov'))]
     print(f"Found {len(video_files)} video files in the bucket.")
 
-    for blob in video_files:
+    for blob in tqdm.tqdm(video_files, desc="Downloading videos"):
         local_path = os.path.join(LOCAL_DOWNLOAD_DIR, os.path.basename(blob.name))
         print(f"Downloading {blob.name} to {local_path} ...")
         try:

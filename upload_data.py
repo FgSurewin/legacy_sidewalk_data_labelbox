@@ -21,7 +21,7 @@ LABELBOX_API_KEY = os.getenv("LABELBOX_API_KEY")
 LABELBOX_DATASET_ID = os.getenv("LABELBOX_DATASET_ID")  # Set this in your .env or replace with actual id
 
 # 4. CSV file listing required videos (update as needed)
-CSV_PATH = "data/testbed_2025.csv"
+CSV_PATH = "data/testbed_videos_2024.csv"
 
 
 def main():
@@ -59,7 +59,7 @@ def main():
 
 
     # Set global key prefix for Labelbox
-    GLOBAL_KEY_PREFIX = "testbed2025"  # Change this as needed
+    GLOBAL_KEY_PREFIX = "testbed2024"  # Change this as needed
 
     data_rows_to_create = []
     base_gcs_url = "https://storage.googleapis.com"
